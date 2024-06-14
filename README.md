@@ -1,7 +1,3 @@
-Certainly! Here's an enhanced description with emojis and stickers for your React To-Do List Application:
-
----
-
 # React To-Do List Application 📝✨
 
 This is a simple yet powerful to-do list application built with React ⚛️ and Tailwind CSS 🌈. It allows users to manage tasks efficiently with intuitive functionalities.
@@ -71,7 +67,8 @@ export default App;
 1. **Clone the repository:**
    
    git clone https://github.com/Vidhi1010/React-To-Do-List-Application.git
-   cd todo-list-app
+
+   cd ToDoList
    
 
 2. **Install dependencies:**
@@ -81,7 +78,7 @@ export default App;
 
 3. **Start the development server:**
 
-   npm start
+   npm run dev
 
 
 ## Usage ℹ️
