@@ -70,7 +70,7 @@ export default App;
 
 1. **Clone the repository:**
    
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/Vidhi1010/React-To-Do-List-Application.git
    cd todo-list-app
    
 
